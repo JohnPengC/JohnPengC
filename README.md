@@ -30,8 +30,10 @@
 ### 📊 GitHub 数据
 
 <picture>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JohnPengC&show_icons=true&locale=cn&hide_border=true" alt="GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPengC&layout=compact&locale=cn&hide_border=true" alt="常用语言" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnPengC&show_icons=true&locale=cn&hide_border=true" alt="GitHub 统计" />
+</picture>
+<picture>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnPengC&layout=compact&locale=cn&hide_border=true" alt="常用语言" />
 </picture>
 
 <picture>
