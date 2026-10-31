@@ -25,15 +25,14 @@
 | --- | --- |
 | [nvidia-key-proxy](https://github.com/JohnPengC/nvidia-key-proxy) | Rust 编写的 NVIDIA API Key 负载均衡代理：多 Key 分流、自动限流冷却、健康检查与 Prometheus 可观测性 |
 | [kimi-sessions-analyzer](https://github.com/JohnPengC/kimi-sessions-analyzer) | 本地分析 Kimi Code CLI 使用情况的工具：时间分布、Token 消耗、项目统计，纯本地运行不上传数据 |
-| [MyPythonStart](https://github.com/JohnPengC/MyPythonStart) | 我的 Python 学习代码库，记录从入门到实践的练习轨迹 |
 
 ### 📊 GitHub 数据
 
 <picture>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnPengC&show_icons=true&locale=cn&hide_border=true" alt="GitHub 统计" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnPengC&theme=default" alt="GitHub 统计" />
 </picture>
 <picture>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnPengC&layout=compact&locale=cn&hide_border=true" alt="常用语言" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnPengC&theme=default" alt="常用语言" />
 </picture>
 
 <picture>
